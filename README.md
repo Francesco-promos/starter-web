@@ -8,8 +8,10 @@ This is a simple is to show different part of git
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
 
 ## Deployament
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 ## How To Contribute
